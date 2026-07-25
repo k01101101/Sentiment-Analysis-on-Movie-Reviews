@@ -41,7 +41,8 @@ frequently occurring words in each group.
     │── Sentiment_Analysis_IMDb.ipynb
     │── movie.csv.gz
     │── sentiment_model.pkl
-    │── wordcloud.png
+    │── wordcloud_positive.png
+    │── wordcloud_negative.png
     │── README.md
     │── Project_Report.docx
 
@@ -82,7 +83,7 @@ vectorizer as `sentiment_model.pkl`.
 ### 5. Generated Files
 
 After execution, the following files will be available: -
-`sentiment_model.pkl` - `wordcloud.png`
+`sentiment_model.pkl` - `wordcloud_positive.png` - `wordcloud_negative.png`
 
 ## Performance Evaluation
 
